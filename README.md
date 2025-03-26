@@ -74,7 +74,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone
-cd ai_mock_interviews
+cd GrillMe
 ```
 
 **Installation**
